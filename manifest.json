@@ -1,1 +1,17 @@
-{  "name": "Todo App",  "theme_color": "#fff",  "background_color": "#fff",  "display": "fullScreen",  "scope": "/",  "start_url": "/index.html"}
+{
+    "name": "Todo App",
+    "short_name": "Todo",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/TodoApp",
+    "icons": [
+      {
+        "src": "/icons/checklist.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
